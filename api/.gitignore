@@ -1,0 +1,19 @@
+# Derleme çıktıları
+bin/
+obj/
+
+# Kullanıcıya özel dosyalar
+*.user
+*.suo
+.vs/
+
+# Paket yöneticileri (NuGet)
+*.nupkg
+*.snupkg
+packages/
+
+# Log dosyaları
+*.log
+
+# Geçici dosyalar
+*.tmp
