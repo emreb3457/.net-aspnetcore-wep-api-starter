@@ -38,7 +38,6 @@ namespace api.Controllers
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex);
                 return Unauthorized(ex.Message);
             }
         }
